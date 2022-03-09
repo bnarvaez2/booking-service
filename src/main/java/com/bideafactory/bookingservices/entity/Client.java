@@ -25,7 +25,7 @@ public class Client {
     @Column(name = "id")
     private int IdUser;
 
-    @Column(name = "user_code", nullable = false)
+    @Column(name = "client_code", nullable = false)
     private String id;
 
     @Column(name = "name", nullable = false)
