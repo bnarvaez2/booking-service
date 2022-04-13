@@ -1,7 +1,6 @@
 package com.bideafactory.bookingservices.controller;
 
 import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpSession;
 
 import com.bideafactory.bookingservices.config.exception.ConflictException;
 import com.bideafactory.bookingservices.entity.Client;
